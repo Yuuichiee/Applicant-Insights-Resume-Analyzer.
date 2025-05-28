@@ -38,7 +38,7 @@ Resume flow/
 
 
 # Step 1: Clone the repo
-git clone https://github.com/your-username/smart-resume-analyzer.git
+git clone https://github.com/Yuuichiee/Applicant-Insights-Resume-Analyzer.git
 
 # Step 2: Navigate into the folder
 cd smart-resume-analyzer
