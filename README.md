@@ -22,16 +22,17 @@ This is a **Streamlit-based 🤖 Applicant Insights Resume Analyzer** built usin
 - Pandas
 
 ## 📂 Folder Structure
+
 Resume flow/
-│
-├── app.py # Main Streamlit app
-├── resumeParser.py # NLP processing functions
-├── Admin.py # Admin interface
-├── create_user.py # SQLite DB setup
-├── style.css # Custom styles (if used)
-├── Uploaded_Resumes/ # Folder where uploaded PDFs are stored
-├── user.db # SQLite database
-└── README.md # Project documentation
+├── app.py              # Main Streamlit app  
+├── resumeParser.py     # NLP processing functions  
+├── Admin.py            # Admin interface  
+├── create_user.py      # SQLite DB setup  
+├── style.css           # Custom styles (if used)  
+├── Uploaded_Resumes/   # Folder where uploaded PDFs are stored  
+├── user.db             # SQLite database  
+└── README.md           # Project documentation  
+
 
 
 ## 💻 How to Run
